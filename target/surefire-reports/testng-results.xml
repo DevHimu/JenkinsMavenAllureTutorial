@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="5825" started-at="2019-12-14T11:39:11 IST" finished-at="2019-12-14T11:39:16 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="5825" started-at="2019-12-14T11:39:11 IST" finished-at="2019-12-14T11:39:16 IST">
+      <class name="com.maventest.citutorial.GoogleTitleTest">
+        <test-method status="PASS" signature="verifyGoogleTitle()[pri:0, instance:com.maventest.citutorial.GoogleTitleTest@1e67a849]" name="verifyGoogleTitle" duration-ms="3383" started-at="2019-12-14T11:39:11 IST" finished-at="2019-12-14T11:39:14 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyGoogleTitle -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.maventest.citutorial.GoogleTitleTest@1e67a849]" name="tearDown" is-config="true" duration-ms="2314" started-at="2019-12-14T11:39:14 IST" finished-at="2019-12-14T11:39:16 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.maventest.citutorial.GoogleTitleTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
